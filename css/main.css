@@ -1,0 +1,55 @@
+#result1{
+    color:deeppink;
+    float: left;
+    margin: 100px;
+    width: 300px;
+    height: 400px;
+}
+
+#result2{
+    color:deepskyblue;
+    float: right;
+    margin: 100px;
+    width: 300px;
+    height: 400px;
+}
+
+#result3{
+    background-image: url("../圖片/fingerheart.jpg");  
+    background-repeat: repeat;
+}
+
+#div3{
+    
+    text-align: center;
+    color:orangered;
+    background-color:skyblue;
+}
+
+#title {
+    font-size: 40px;
+    text-align: center;
+    color:deeppink;
+    background-color:rgb(127, 229, 255);
+    /* width: 500px;
+    height: 40px;
+    padding: 10px; */
+}
+
+#lintitle{
+    text-align: center;
+    color:orangered;
+    background-color:skyblue;
+}
+
+#yttitle{
+    text-align: center;
+    color:orangered;
+    background-color:skyblue;
+}
+
+#div4{
+    text-align: center;
+    color:orangered;
+    background-color:skyblue;
+}
